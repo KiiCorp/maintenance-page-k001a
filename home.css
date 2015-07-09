@@ -1,17 +1,17 @@
 ﻿@font-face{
 font-family:Ico;
 font-style:normal;
-src:url(/assets/icons3-28aeb3790d996bc384b1a87752d65844.ttf)
+src:url(./assets/icons3-28aeb3790d996bc384b1a87752d65844.ttf)
 }
 @font-face{
 font-family:DinB;
 font-style:bold;
-src:url(/assets/dinb-5b29bc14ea5ea2771a5a7a4fc1bf398c.ttf)
+src:url(./assets/dinb-5b29bc14ea5ea2771a5a7a4fc1bf398c.ttf)
 }
 @font-face{
 font-family:Din;
 font-style:normal;
-src:url(/assets/dinl-ac66a7d5a29870677607af64e759bdb7.ttf)
+src:url(./assets/dinl-ac66a7d5a29870677607af64e759bdb7.ttf)
 }
 @keyframes rotate{
 0%{
@@ -333,7 +333,7 @@ width:204px;
 height:0px;
 overflow:hidden;
 padding:63px 0 0 0;
-background-image:url(/assets/kiicloud-logo-75e1b3c528f55c44adfbbe6aa2df956a.png);
+background-image:url(./assets/kiicloud-logo-75e1b3c528f55c44adfbbe6aa2df956a.png);
 background-repeat:no-repeat
 }
 #home #container header#header .access{
@@ -371,7 +371,7 @@ box-shadow:inset 0px 5px 5px -5px white, inset 0px 1px 0px white, 0px 1px 0px #8
 width:100%;
 float:left;
 background-color:#252427;
-background-image:url(/assets/bg3-d067ad85b0e595cd8e34a8180d0d2319.jpg);
+background-image:url(./assets/bg3-d067ad85b0e595cd8e34a8180d0d2319.jpg);
 background-repeat:repeat;
 background-position:center top
 }
@@ -382,7 +382,7 @@ margin:0 auto;
 padding:100px 0
 }
 #home #container #content>.wrapper .intro{
-background-image:url(/assets/illustration-156bb4f16860a48cfebb826e27ff65b8.png);
+background-image:url(./assets/illustration-156bb4f16860a48cfebb826e27ff65b8.png);
 background-repeat:no-repeat;
 background-position:right top;
 min-height:457px;
@@ -737,7 +737,7 @@ display:block;
 width:59px;
 height:0;
 padding:38px 0 0 0;
-background-image:url(/assets/logo-s-052b75a8533027d111fe68aada533cbc.png);
+background-image:url(./assets/logo-s-052b75a8533027d111fe68aada533cbc.png);
 background-repeat:no-repeat;
 overflow:hidden
 }
@@ -794,7 +794,7 @@ width:32px;
 height:32px;
 overflow:hidden;
 text-indent:-200em;
-background-image:url(/assets/social-47454223eac94538b26aa72a619de97e.png);
+background-image:url(./assets/social-47454223eac94538b26aa72a619de97e.png);
 background-repeat:no-repeat
 }
 #home #container footer .wrapper .connect ul li.fb a{
