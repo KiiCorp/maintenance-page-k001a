@@ -376,27 +376,20 @@ background-repeat:repeat;
 background-position:center top
 }
 #home #container #content>.wrapper{
-min-width:930px;
-width:80%;
-margin:0 auto;
-padding:100px 0
+  min-width:930px;
+  width:80%;
+  margin:100px auto;
 }
 #home #container #content>.wrapper .intro{
-background-image:url(./assets/illustration-156bb4f16860a48cfebb826e27ff65b8.png);
-background-repeat:no-repeat;
-background-position:right top;
-min-height:457px;
-padding:0 0 0px 0
+  padding:0 0 0px 0
 }
 #home #container #content>.wrapper .intro h1{
-font-size:40px;
-width:50%;
-color:#efefef;
-text-transform:uppercase;
-font-weight:normal;
-font-family:Din, Helvetica, Arial, sans-serif;
-line-height:120%;
-margin:0 0 60px 0
+  font-size:40px;
+  color:#efefef;
+  text-transform:uppercase;
+  font-weight:normal;
+  line-height:120%;
+  margin-bottom: 30px;
 }
 #home #container #content>.wrapper .intro h1 span{
 display:block;
@@ -927,3 +920,19 @@ left:0
 
 }
 
+.lang-en {
+  font-family: Din, Helvetica, Arial, sans-serif;
+}
+
+.lang-zh {
+  font-family: Din, Helvetica, Arial,
+        'Microsoft YaHei', 'STXihei', 'SimHei',
+        sans-serif;
+}
+
+.lang-ja {
+  font-family: Din, Helvetica, Arial,
+        'メイリオ', 'Meiryo', 'ヒラギノ丸ゴ Pro W4',
+        'Hiragino Maru Gothic Pro', 'ＭＳ Ｐゴシック', 'MS PGothic',
+        sans-serif;
+}
